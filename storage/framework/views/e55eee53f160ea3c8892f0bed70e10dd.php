@@ -1,0 +1,1 @@
+<h1>Haiiiiiiii</h1><?php /**PATH C:\xampp\htdocs\ary\quiz-muara\resources\views/welcome.blade.php ENDPATH**/ ?>
